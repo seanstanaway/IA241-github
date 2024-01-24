@@ -1,5 +1,5 @@
 # IA241-github
-IA 241
+IA 241: Introduction to Programming and Data Science
 
 
 > Sean Stanaway
