@@ -6,8 +6,8 @@ IA 241
 
 
 
-[jmu](https://www.jmu.edu)
+[JMU](https://www.jmu.edu)
 
-![jmu image](https://www.bachelorstudies.com/institutions/jmu/bs-in-intelligence-analysis)
+
 
 
